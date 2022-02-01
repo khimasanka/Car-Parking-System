@@ -1,0 +1,30 @@
+.button-one{
+    -fx-background-color:  #487eb0;
+    -fx-background-radius: 15;
+}
+.button-one:hover{
+    -fx-cursor: hand;
+    -fx-background-color:  #481eb0;
+}
+
+.button-two{
+    -fx-cursor: hand;
+    -fx-background-radius: 15;
+    -fx-background-color: #487eb0;
+}
+
+.button-two:hover{
+    -fx-background-color: #481eb0;
+}
+
+.button-three{
+    -fx-background-color:  #4b4b4b;
+    -fx-cursor: hand;
+    -fx-background-radius: 10;
+    -fx-border-color: green;
+    -fx-border-radius: 10;
+    -fx-border-width: 2;
+}
+.button-three:hover{
+    -fx-background-color:  #4b4b6b;
+}
